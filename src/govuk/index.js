@@ -27,4 +27,4 @@ export * from './components/tabs';
 export * from './components/tag';
 export * from './components/textarea';
 export * from './components/warning-text';
-export * from './template';
+// export * from './template';
